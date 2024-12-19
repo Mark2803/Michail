@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Cycles/Cycles.iml" filepath="$PROJECT_DIR$/Cycles/Cycles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cycles/Do_While/Do_While.iml" filepath="$PROJECT_DIR$/Cycles/Do_While/Do_While.iml" />
       <module fileurl="file://$PROJECT_DIR$/Test.iml" filepath="$PROJECT_DIR$/Test.iml" />
     </modules>
   </component>
